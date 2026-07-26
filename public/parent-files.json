@@ -1,0 +1,23 @@
+[
+  "app",
+  "lib64",
+  "proc",
+  "home",
+  "srv",
+  "root",
+  "sys",
+  "etc",
+  "bin",
+  "mnt",
+  "media",
+  "dev",
+  "sbin",
+  "opt",
+  "var",
+  "boot",
+  "tmp",
+  "run",
+  "usr",
+  "lib",
+  "__modal"
+]
